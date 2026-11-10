@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Archivos que genera el script
+resultados.txt
+capturas/
+
+# Documentos y notas
+*.docx
+*.doc
+*.pdf
+*.md
+!README.md
+*.txt
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
+*.tmp
+*.bak
